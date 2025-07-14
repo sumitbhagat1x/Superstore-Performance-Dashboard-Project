@@ -35,11 +35,6 @@ This project analyzes a Superstore dataset sourced from Kaggle to extract meanin
 
 ---
 
-## 📁 Dataset  
-**Source:** [Kaggle – Superstore Dataset](https://www.kaggle.com/)
-
----
-
 ## ✅ Summary  
 This dashboard helps businesses make data-driven decisions related to regional inventory planning, customer targeting, and delivery preferences. It's a foundational example of how simple tools like Excel can be used to generate meaningful insights from raw data.
 
