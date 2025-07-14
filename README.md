@@ -38,16 +38,6 @@ This project analyzes a Superstore dataset sourced from Kaggle to extract meanin
 ## ✅ Summary  
 This dashboard helps businesses make data-driven decisions related to regional inventory planning, customer targeting, and delivery preferences. It's a foundational example of how simple tools like Excel can be used to generate meaningful insights from raw data.
 
----
 
-## 📸 Dashboard Preview  
-*Coming Soon!* (You can add a screenshot here using: `![Dashboard Screenshot](path/to/image.png)`)
-
----
-
-## 🚀 Future Enhancements  
-- Migrate dashboard to **Power BI** or **Tableau**  
-- Automate data refresh using Power Query  
-- Add forecasting with Excel analytics tools
 
 
